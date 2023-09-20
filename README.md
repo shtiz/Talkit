@@ -1,4 +1,4 @@
-# lets_chat
+#Talkit - Lets'chat
 
 A new Flutter project.
 
